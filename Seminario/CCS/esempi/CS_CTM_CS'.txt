@@ -1,0 +1,4 @@
+var CS,CTM;
+let CS  = !coin.coffee.CS,
+    CTM = coin.(!coffee.CTM + !tea.CTM);
+in CS|CTM|!coin.tea.0

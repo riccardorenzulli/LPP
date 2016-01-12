@@ -1,0 +1,5 @@
+var ATM,ATMI,C;
+let ATM  = carta.pin.ATMI,
+    ATMI = prelievo.ATMI + versamento.ATMI + conto.ATMI + esci.ATM,
+    C    = !carta.!pin.!conto.!prelievo.!esci.0;
+in ATM|C

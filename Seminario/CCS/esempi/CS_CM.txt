@@ -1,0 +1,4 @@
+var CS,CM;
+let CS=!coin.coffe.CS,
+    CM=coin.!coffe.CM;
+in  CS|CM
